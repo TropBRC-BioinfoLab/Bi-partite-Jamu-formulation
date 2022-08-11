@@ -1,0 +1,13 @@
+nama file	: kombinasiKpar.cpp
+owner		: fahmi amir
+compile		: g++ -std=c++14 -o {isiSendiri} kombinasiKpar.cpp -fopenmp
+run		: ./{isiSendiri}
+
+
+nama file	: BFS.cpp / DFS.cpp / wide_branchingBrFS.cpp / BrFS.cpp
+owner		: zulfahmi
+compile		: g++ -std=c++14 $file_name -o $file_base_name
+run		: ./$file_base_name<inputf.in>
+
+
+
